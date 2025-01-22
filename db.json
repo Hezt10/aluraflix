@@ -1,0 +1,68 @@
+{
+    "videoCategory": {
+      "category1": [
+        {
+          "id": 1,
+          "title": "¿Qué es JavaScript?",
+          "description": "Lenguaje de programación.",
+          "url": "https://www.youtube.com/watch?v=GJfOSoaXk4s&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=10"
+        },
+        {
+          "id": 2,
+          "title":"¿Cómo un desarrollador Front End utiliza el Figma?",
+          "description": "Que es Figma",
+          "url": "https://www.youtube.com/watch?v=UuAX5azcvDQ"
+        },
+        {
+          "id": 3,
+          "title": "Equipo Front End",
+          "description": "¿Estás empezando tus estudios de Programación Front End y no sabes por dónde empezar?",
+          "url": "https://www.youtube.com/watch?v=rpvrLaBQwgg"
+        }
+
+      ],
+      "category2": [
+        {
+          "id": 3,
+          "title": "¿Qué es SQL y NoSQL?",
+          "description": "las diferencias entre una estructura de datos relacional",
+          "url": "https://www.youtube.com/watch?v=cLLKVd5CNLc&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=1"
+        },
+        {
+          "id": 4,
+          "title": "Spring Framework",
+          "description": "Spring Framework ¿qué es?.",
+          "url": "https://www.youtube.com/watch?v=t-iqt1b2qqk"
+        },
+        {
+          "id": 5,
+          "title": "Simplificando tu código en Java: Conoce los enum",
+          "description": "Enum en Java",
+          "url": "https://www.youtube.com/watch?v=EoPvlE85XAQ"
+        }
+      ],
+      "category3": [
+        {
+          "id": 5,
+          "title": "¿Qué son las Soft Skills?",
+          "description": "Qué son las Softskills y por qué es tan importante desarrollarla.",
+          "url": "https://www.youtube.com/watch?v=vhwspfvI52k&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=4"  
+
+        },
+        {
+          "id": 6,
+          "title": "7 Soft Skills más deseadas por las empresas",
+          "description": "¿sabes cuáles son las 7 más buscadas por las empresas? ",
+          "url": "https://www.youtube.com/watch?v=EoPvlE85XAQ"
+        }, 
+        {
+          "id": 7,
+          "title": "¿Qué son las metodologias ágiles",
+          "description": "nos explicará que són las muy conocidas hoy en día metodologias ágiles",
+          "url": "https://www.youtube.com/watch?v=6N3OkLCfK-0" 
+        }
+      ]
+    }   
+
+  }
+  
